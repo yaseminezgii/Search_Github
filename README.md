@@ -1,2 +1,2 @@
 # Search_Shodan-ds
-search on Github with given keywor
+search on Github with given keyword
